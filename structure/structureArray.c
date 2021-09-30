@@ -7,7 +7,7 @@ struct Student
     int roll;
     int class;
     double marks;
-};  
+};
 
 void main()
 {
